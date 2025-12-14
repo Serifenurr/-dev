@@ -4,7 +4,8 @@
   "private": true,
  "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "build": "echo 'Build skipped'"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
